@@ -14,12 +14,13 @@ American College Health Association, 2012
 
 ##MVP Plan Overview
 1. Design wireframes.
-2. Plan issue requests and database associations.
-3. Create landing page with counselor and student login and mailing list signup for students at schools that haven't signed up yet.
-3. Create student signup requiring .edu email and liability waiver.
-4. Create counselor signup requiring a passcode from Togethr.
-5. Create student platform with appointment scheduling and text and video-chat sessions.
-6. Create counselor platform with calendar, text and video-chat sessions, and session note tracker.
+2. Set up database (need to make a database.yml.sample and properly configure access) and plan associations.
+3. Write issue requests.
+4. Create landing page with counselor and student login and mailing list signup for students at schools that haven't signed up yet.
+5. Create student signup requiring .edu email and liability waiver.
+6. Create counselor signup requiring a passcode from Togethr.
+7. Create student platform with appointment scheduling and text and video-chat sessions.
+8. Create counselor platform with calendar, text and video-chat sessions, and session note tracker.
  
 
 ##Future Plans Overview
@@ -42,7 +43,7 @@ To get started,
   bundle install
   ```
   
-* Configure the app for your local database by copying database.yml.sample to database.yml and adding a valid username and password. Make any changes needed for your database setup ( and possibly `rake db:create`).
+* THE FOLLOWING DATABASE PORTION HAS NOT BEEN SET UP PROPERLY YET: Configure the app for your local database by copying database.yml.sample to database.yml and adding a valid username and password. Make any changes needed for your database setup ( and possibly `rake db:create`).
   `cp config/database.yml.sample config/database.yml`
   
 * Create database:  
