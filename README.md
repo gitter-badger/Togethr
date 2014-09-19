@@ -28,6 +28,11 @@ American College Health Association, 2012
 2. Implement reporting system where students and faculty recommend students that need help to counselors.
 
 
+##Contact Us
+Our current team would love to hear from you!
+*Hilary Barr: hilarybarr@aya.yale.edu
+*Sid Patel: sidpatel13@gmail.com
+
 
 ##Development Environment Setup
 To get started,
