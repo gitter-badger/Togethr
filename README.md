@@ -61,4 +61,4 @@ You're ready to help change the world :-)
 
 ## License
 
-Copyright (c) 2014 Togethr. See [LICENSE](https://github.com/CodeMontageHQ/codemontage/tree/master/LICENSE) for details.
+Copyright (c) 2014 Togethr. See [LICENSE](https://github.com/hilarybarr/Togethr/blob/master/LICENSE) for details.
