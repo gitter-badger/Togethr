@@ -58,6 +58,7 @@ To get started,
 * After installing these dependencies, test your setup by running `rails server` and visiting your site at [http://localhost:3000](http://localhost:3000)
 
 You're ready to help change the world :-)
+Shoutout to [CodeMontage](www.codemontage.com) for inspiration when setting up our project.
 
 ## License
 
