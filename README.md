@@ -30,8 +30,8 @@ American College Health Association, 2012
 
 ##Contact Us
 Our current team would love to hear from you!
-*Hilary Barr: hilarybarr@aya.yale.edu
-*Sid Patel: sidpatel13@gmail.com
+* Hilary Barr: hilarybarr@aya.yale.edu
+* Sid Patel: sidpatel13@gmail.com
 
 
 ##Development Environment Setup
