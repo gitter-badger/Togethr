@@ -3,7 +3,7 @@ Togethr
 
 Togethr is an open-source project that aims to increase access to care for the 73% of students who experience a mental health crisis during college. Of the 2.2 million students who sought counseling in 2012, 41% reported difficulty receiving treatment because of long waits and inconvenient services. 
 
-Our Rails-based platform will offer a solution for the 88% of campuses that do not have the staff to accomodate the increasing number of students seeking help. We will provide virtual (text and video-based) counseling as well as convenient scheduling for in-person sessions. While students are on a waitlist, they will be able attend counselor-led group therapy sessions organized around different topics. Using text-chat will allow students to preserve their anonymity.
+Our Rails-based platform will offer a solution for the 88% of campuses that do not have the staff to accomodate the increasing number of students seeking help. We will provide virtual (text and video-based) one-on-one counseling as well as convenient scheduling for in-person sessions. While students are on a waitlist, they will be able attend to immediatel get suppor by attending counselor-led group therapy sessions organized around different topics. Using text-chat will allow students to preserve their anonymity.
 
 
 
@@ -14,20 +14,15 @@ American College Health Association, 2012
 
 
 ##MVP Plan Overview
-1. Design wireframes.
-2. Set up database (need to make a database.yml.sample and properly configure access) and plan associations.
-3. Write issue requests.
-4. Create landing page with counselor and student login and mailing list signup for students at schools that haven't signed up yet.
-5. Create student signup requiring .edu email and liability waiver.
-6. Create counselor signup requiring a passcode from Togethr.
-7. Create student platform with appointment scheduling and text and video-chat sessions.
-8. Create counselor platform with calendar, text and video-chat sessions, and session note tracker.
+https://trello.com/b/3zbyOxE3/togethr
+
  
 
 ##Future Plans Overview
-1. Create anonymous, text-based group therapy session feature.
-2. Implement reporting system where students and faculty recommend students that need help to counselors.
-3. Send weekly positive text messages to students.
+1. Implement reporting system where students and faculty recommend students that need help to counselors.
+2. Send weekly positive text messages to students.
+3. Give counselors more control over group sessions (i.e. how many students can sign up for each)
+
 
 ##Contact Us
 Our current team would love to hear from you!
