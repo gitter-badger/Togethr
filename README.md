@@ -3,7 +3,7 @@ Togethr
 
 Togethr is an open-source project that aims to increase access to care for the 73% of students who experience a mental health crisis during college. Of the 2.2 million students who sought counseling in 2012, 41% reported difficulty receiving treatment because of long waits and inconvenient services. 
 
-Our Rails-based platform will offer a solution for the 88% of campuses that do not have the staff to accomodate the increasing number of students seeking help. We will provide virtual (text and video-based) one-on-one counseling as well as convenient scheduling for in-person sessions. While students are on a waitlist, they will be able attend to immediatel get suppor by attending counselor-led group therapy sessions organized around different topics. Using text-chat will allow students to preserve their anonymity.
+Our Rails-based platform will offer a solution for the 88% of campuses that do not have the staff to accomodate the increasing number of students seeking help. We will provide virtual (text and video-based) one-on-one counseling as well as convenient scheduling for both virtual and in-person sessions. While students are on a waitlist, they will be able to immediately get suppor by attending counselor-led group therapy sessions organized around different topics. Using text-chat will allow students to preserve their anonymity.
 
 
 
